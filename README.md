@@ -1,14 +1,14 @@
 ## नमस्ते (Namaste), I am [Ashish Kushwaha!](https://ashish-kus.github.io/myCard/)
 
 
-I'm a persuing graduation in Computer Science 🎓 from [Gautam Buddha University](https://www.gbu.ac.in/) 🏛. I'm a passionate self-taught full web developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true. I'm currently into Linux System 🕸️ and working on my Data Structuresand Algorithms 🤓.<br>
+I'm a persuing graduation in Computer Science 🎓 from [Gautam Buddha University](https://www.gbu.ac.in/) 🏛. I'm a passionate self-taught full web developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true. I'm currently into Linux System 🕸️ and working on my Data Structure sand Algorithms 🤓.<br>
 In my personal capacity, do a lot of problem-solving, teaching❤️  and Idea-making 🧠.
 
 
 ### More About Me:
 
 - 🔭 &nbsp; I’m currently working as a freelancer
-- 🌱 &nbsp; I’m currently learning javascript and node; 
+- 🌱 &nbsp; I’m currently learning javascript and nodejs; 
 - 👨🏻‍💻 &nbsp; Most of my projects will be available on [Github](https://github.com/ashish-kus/)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help [@](https://github.com/ashish-kus/).
 - 📚 &nbsp; When I am free, I draw abstract and listen music, but love to play chess.
