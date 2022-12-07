@@ -10,7 +10,7 @@ In my personal capacity, do a lot of problem-solving, teaching❤️  and Idea-m
 - 🔭 &nbsp; I’m currently working as a freelancer
 - 🌱 &nbsp; I’m currently learning javascript and nodejs; 
 - 👨🏻‍💻 &nbsp; Most of my projects will be available on [Github](https://github.com/ashish-kus/)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help [@](https://github.com/ashish-kus/).
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help [@](https://ashish-kus.github.io/myCard).
 - 📚 &nbsp; When I am free, I draw abstract and listen music, but love to play chess.
 
 
