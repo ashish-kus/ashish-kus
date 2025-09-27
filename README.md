@@ -13,8 +13,11 @@ I’m an **Indo Linux enthusiast** and **DevOps tinkerer**. I live in the termin
 <div align="center">
 
 ![Tools](https://skillicons.dev/icons?i=arch,bash,linux,git,aws,vim,notion&theme=dark)
+
 ![language](https://skillicons.dev/icons?i=cpp,js,python,c,go,lua,html,css)
+
 ![frameworks](https://skillicons.dev/icons?i=react,express,nodejs,tailwind,bootstrap,qt&theme,svelte=dark)
+
 ![database](https://skillicons.dev/icons?i=mysql,mongo&theme=dark)
 
 </div>
