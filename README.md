@@ -21,3 +21,13 @@ I’m an **Indo Linux enthusiast** and **DevOps tinkerer**. I live in the termin
 ![database](https://skillicons.dev/icons?i=mysql,mongo&theme=dark)
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashish-kus/ashish-kus/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashish-kus/ashish-kus/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ashish-kus/ashish-kus/output/pacman-contribution-graph.svg">
+</picture>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
